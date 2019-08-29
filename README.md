@@ -1,3 +1,11 @@
+
+This project uses create-react-app and react-router-dom. In order to run it, you will need to have node and npm. You will also need to create a config.js and put it in the /src folder.
+
+The config.js must contain: const apiKey = 'YOUR API KEY' ; export default apiKey;
+You will also need to run in the terminal: npm install
+Finally run npm start to start the server and view in localhost:3000
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
